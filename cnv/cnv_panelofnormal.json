@@ -1,0 +1,22 @@
+{
+  "CNV_PoN.cnv_merge_threshold": "0.4",
+  "CNV_PoN.cnv_min_mapq": "20",
+  "CNV_PoN.option_enable_cnv": "true",
+  "CNV_PoN.find.find_object": "\"{}\"",
+  "CNV_PoN.cnv_target_bed": "/mnt/isilon/conlin_lab/users/ramki/playground/manta_on_v2_exomes/crev2.bed",
+  "CNV_PoN.option_gcbias_correction": "false",
+  "CNV_PoN.option_map_align_tc": "false",
+  "CNV_PoN.output_prefix": "F000075592_DGD-21-3166_WESCNV",
+  "CNV_PoN.target": "/mnt/isilon/conlin_lab/data/clinical/v2_exome_parents/F000075592_DGD-21-3166_WESCNV.target.counts",
+  "CNV_PoN.RefDict": "/staging/human/reference/hs37d5/dragen/",
+  "CNV_PoN.targetcountsfile": "/mnt/isilon/conlin_lab/data/clinical/v2_exome_parents/F000075592_DGD-21-3166_WESCNV.target.counts",
+  "CNV_PoN.interval_width": "500",
+  "CNV_PoN.cnv_counts_method": "midpoint",
+  "CNV_PoN.PATH": "/mnt/isilon/conlin_lab/data/clinical/v2_exome_parents/",
+  "CNV_PoN.option_enable_cnv_tc": "true",
+  "CNV_PoN.filename": "F000075592_DGD-21-3166_WESCNV.target.counts",
+  "CNV_PoN.inputBam": "/mnt/isilon/conlin_lab/data/clinical/v2_proband_exomes/F000075592_DGD-21-3166_WESCNV.markdups.bam",
+  "CNV_PoN.normal_list": "/mnt/isilon/conlin_lab/data/clinical/v2_exome_parents/normal.txt",
+  "CNV_PoN.option_map_align": "false"
+}
+

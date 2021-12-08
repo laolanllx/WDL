@@ -1,0 +1,9 @@
+{
+       "CNV_TC.inputBam": "/mnt/isilon/conlin_lab/data/clinical/v2_proband_exomes/F000075592_DGD-21-3166_WESCNV.markdups.bam",
+       "CNV_TC.RefDict": "/staging/human/reference/hs37d5/dragen/",
+       "CNV_TC.option_enable_cnv": "true",
+       "CNV_TC.output_prefix": "F000075592_DGD-21-3166_WESCNV",
+       "CNV_TC.option_map_align": "false",
+       "CNV_TC.cnv_target_bed": "/mnt/isilon/conlin_lab/users/ramki/playground/manta_on_v2_exomes/crev2.bed",
+       "CNV_TC.interval_width": "500"
+}

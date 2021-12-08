@@ -1,0 +1,13 @@
+{
+  "CNV_N.cnv_merge_threshold": "0.4",
+  "CNV_N.cnv_min_mapq": "20",
+  "CNV_N.option_enable_cnv": "true",
+  "CNV_N.option_gcbias_correction": "false",
+  "CNV_N.output_prefix": "dragen_cnv_normalization_F000075592_DGD-21-3166_WESCNV",
+  "CNV_N.RefDict": "/staging/human/reference/hs37d5/dragen/",
+  "CNV_N.targetcountsfile": "/mnt/isilon/conlin_lab/data/clinical/v2_exome_parents/cromwell-executions/CNV_TC/ed5b65d7-c3a3-4785-9afa-ae242cfd2a02/call-target_counts/execution/F000075592_DGD-21-3166_WESCNV.target.counts",
+  "CNV_N.cnv_counts_method": "midpoint",
+  "CNV_N.normal_list": "/mnt/isilon/conlin_lab/data/clinical/v2_exome_parents/normal.txt",
+  "CNV_N.option_map_align": "false"
+}
+
