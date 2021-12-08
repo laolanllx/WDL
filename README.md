@@ -1,1 +1,1 @@
-# Dragen workflow
+# Dragen WDL workflow
